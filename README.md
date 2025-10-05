@@ -26,7 +26,7 @@ No more typing long responses — just click **AI Reply**, and let your assistan
 |-------|-------------|
 | Frontend | React |
 | Backend | Java (Spring Boot) |
-| AI Integration | Custom API (local or cloud-hosted model) |
+| AI Integration | CGemini API 2.5-pro |
 | Browser Platform | Chrome Extension (Manifest v3) |
 
 ---
