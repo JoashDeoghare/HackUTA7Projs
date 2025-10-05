@@ -24,7 +24,7 @@ No more typing long responses — just click **AI Reply**, and let your assistan
 
 | Layer | Technology |
 |-------|-------------|
-| Frontend | HTML, CSS, JavaScript |
+| Frontend | React |
 | Backend | Java (Spring Boot) |
 | AI Integration | Custom API (local or cloud-hosted model) |
 | Browser Platform | Chrome Extension (Manifest v3) |
